@@ -33,10 +33,6 @@ Hospitals often face challenges in managing patient flow and resource allocation
 
 ## How to Run the Project
 In cmd, 
-cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
-python manage.py runserver
-url: http://127.0.0.1:8000/
-
 
 cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
 
