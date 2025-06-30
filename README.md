@@ -38,8 +38,8 @@ Hospitals often face challenges in managing patient flow and resource allocation
   ```bash
   cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
 
-
-#Run the Django development server : python manage.py runserver
+Run the Django development server : 
+   python manage.py runserver
 
 url: http://127.0.0.1:8000/
 
