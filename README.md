@@ -41,7 +41,12 @@ python manage.py runserver
 url: http://127.0.0.1:8000/
 
 ## Project Details:
+
 Student Name: Pranathi K
+
 College: Samskruti college of engineering and technology
+
 Branch & Year: B.Tech, 3rd Year
+
 Course: Computer Science Engineering(Data Science)
+
