@@ -31,10 +31,13 @@ Hospitals often face challenges in managing patient flow and resource allocation
 5. **Explainability**: SHAP plots to visualize feature importance.
 
 
-## How to Run the Project
-In cmd, 
+### ▶️ How to Run the Project 
+(CMD Steps)
+- Open Command Prompt (CMD)
+- Navigate to your project folder:
+  ```bash
+  cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
 
-cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
 
 #Run the Django development server : python manage.py runserver
 
