@@ -37,6 +37,13 @@ cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
 python manage.py runserver
 url: http://127.0.0.1:8000/
 
+
+cd C:\Users\pranathi\OneDrive\Desktop\mini\CODE\Hospital_Stay
+
+python manage.py runserver
+
+url: http://127.0.0.1:8000/
+
 ## Project Details:
 Student Name: Pranathi K
 College: Samskruti college of engineering and technology
